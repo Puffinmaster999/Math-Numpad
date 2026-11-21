@@ -264,7 +264,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "simple_reviung41(2).kicad_pro",
+    "filename": "math_numpad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -300,7 +300,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
