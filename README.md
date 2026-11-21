@@ -9,8 +9,10 @@ i first saw this amazing [youtube video](https://youtu.be/7UXsD7nSfDY$0) where t
 ## information
 
 keyboard layout plan!
+
 <img width="769" height="654" alt="Screenshot 2026-11-20 at 10 17 24 PM" src="https://github.com/user-attachments/assets/9458d817-cfd4-49b0-9459-d69d48f8604e" />
 <img width="1121" height="402" alt="Screenshot 2026-11-20 at 10 17 35 PM" src="https://github.com/user-attachments/assets/a40ed69e-6c31-4806-86c9-91438a964017" />
+
 
 kicad files!
 - math_numpad.kicad_pcb
@@ -20,9 +22,7 @@ kicad files!
 gerber files
 - production/math_numpad_gerbers.zip
 
-
----
-## part library!
+part library!
 - [knobs](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-S0024/4499660)
 - [nice!nano](https://typeractive.xyz/products/nice-nano)
 - MX Switches (you can find whichever one you prefer!)
