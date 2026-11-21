@@ -16,5 +16,13 @@ kicad files!
 - math_numpad.kicad_pcb
 - math_numpad.kicad_prl
 - math_numpad.kicad_pro
+
 gerber files
 - production/math_numpad_gerbers.zip
+
+---
+## part library!
+- [knobs](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-S0024/4499660)
+- [nice!nano](https://typeractive.xyz/products/nice-nano)
+- MX Switches (you can find whichever one you prefer!)
+- Keycaps (same style as your Switches!)
