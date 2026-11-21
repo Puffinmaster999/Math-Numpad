@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "COMM-SMD_L51.0-W21.0-P2.54_SC0916") (type "KiCad") (uri "${KIPRJMOD}/COMM-SMD_L51.0-W21.0-P2.54_SC0916.pretty") (options "") (descr ""))
+	(lib (name "SSD1306_OLED-0.91-128x32") (type "KiCad") (uri "${KIPRJMOD}/SSD1306_OLED-0.91-128x32.pretty") (options "") (descr ""))
+)
