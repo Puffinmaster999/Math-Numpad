@@ -13,7 +13,8 @@ The layout of the numpad was inspired by the **Casio FX-300ES PLUS 2nd Edition c
 ## Screenshots & Layout Plan
 <img width="769" height="654" alt="Screenshot 2026-11-20 at 10 17 24 PM" src="https://github.com/user-attachments/assets/9458d817-cfd4-49b0-9459-d69d48f8604e" />
 <img width="1121" height="402" alt="Screenshot 2026-11-20 at 10 17 35 PM" src="https://github.com/user-attachments/assets/a40ed69e-6c31-4806-86c9-91438a964017" />
-
+<img width="694" height="605" alt="Screenshot 2026-11-20 at 9 13 09 PM" src="https://github.com/user-attachments/assets/29a54aae-23c2-4cec-8a73-3bcabb44c79d" />
+<img width="1004" height="879" alt="Screenshot 2026-11-22 at 10 30 17 AM" src="https://github.com/user-attachments/assets/da119aa9-7fd5-430c-a413-35931cb92cae" />
 
 ## Tech Stack & How It Was Made
 - Layout: Ergogen
